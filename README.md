@@ -1,1 +1,1 @@
-phoenix say hello to bash script
+phoenix say hello to bash script all under control 
