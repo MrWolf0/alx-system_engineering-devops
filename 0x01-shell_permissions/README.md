@@ -1,1 +1,1 @@
-permission in shell 
+permissions are done 
